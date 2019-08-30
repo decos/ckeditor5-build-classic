@@ -39,6 +39,8 @@ ClassicEditor.builtinPlugins = [
 	Autoformat,
 	Bold,
 	Italic,
+	Underline,
+	Strikethrough,
 	BlockQuote,
 	CKFinder,
 	EasyImage,
@@ -53,10 +55,8 @@ ClassicEditor.builtinPlugins = [
 	MediaEmbed,
 	Paragraph,
 	PasteFromOffice,
-	Strikethrough,
 	Table,
-	TableToolbar,
-	Underline
+	TableToolbar
 ];
 
 // Editor configuration.
